@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+  <rect width="1200" height="760" fill="#ffffff"/>
+  <text x="60" y="72" font-size="34" font-weight="700" fill="#1f2937">5 款在线编码转换工具对照</text>
+  <text x="60" y="108" font-size="18" fill="#6b7280">按处理位置、覆盖范围与批量能力整理</text>
+
+  <rect x="60" y="140" width="1080" height="52" rx="8" fill="#111827"/>
+  <text x="88" y="173" font-size="20" font-weight="700" fill="#ffffff">工具</text>
+  <text x="300" y="173" font-size="20" font-weight="700" fill="#ffffff">定位</text>
+  <text x="600" y="173" font-size="20" font-weight="700" fill="#ffffff">主要限制</text>
+  <text x="920" y="173" font-size="20" font-weight="700" fill="#ffffff">运行位置</text>
+
+  <g font-size="19" fill="#1f2937">
+    <rect x="60" y="192" width="1080" height="92" fill="#f9fafb"/>
+    <text x="88" y="228" font-weight="600">CyberChef</text>
+    <text x="300" y="228">可编排的转换工作台</text>
+    <text x="600" y="228">算子多，上手成本高</text>
+    <text x="920" y="228">浏览器 / 离线 HTML</text>
+    <text x="88" y="258" font-size="16" fill="#6b7280">适合多步链式解码</text>
+
+    <rect x="60" y="284" width="1080" height="92" fill="#ffffff"/>
+    <text x="88" y="320" font-weight="600">DevToys</text>
+    <text x="300" y="320">桌面工具箱</text>
+    <text x="600" y="320">需要安装，换机不便</text>
+    <text x="920" y="320">本机桌面端</text>
+    <text x="88" y="350" font-size="16" fill="#6b7280">编码只是其中一类功能</text>
+
+    <rect x="60" y="376" width="1080" height="92" fill="#f9fafb"/>
+    <text x="88" y="412" font-weight="600">Base64 Guru</text>
+    <text x="300" y="412">Base64 专项工具</text>
+    <text x="600" y="412">只支持 Base64 家族</text>
+    <text x="920" y="412">浏览器</text>
+    <text x="88" y="442" font-size="16" fill="#6b7280">图片与 data URI 互转</text>
+
+    <rect x="60" y="468" width="1080" height="92" fill="#ffffff"/>
+    <text x="88" y="504" font-weight="600">RapidTables</text>
+    <text x="300" y="504">转换器集合站</text>
+    <text x="600" y="504">广告多，无批处理</text>
+    <text x="920" y="504">浏览器</text>
+    <text x="88" y="534" font-size="16" fill="#6b7280">进制、字符集、单位换算</text>
+
+    <rect x="60" y="560" width="1080" height="92" fill="#f9fafb"/>
+    <text x="88" y="596" font-weight="600">CodeBeautify</text>
+    <text x="300" y="596">格式化与编码合集</text>
+    <text x="600" y="596">免费版有体积限制</text>
+    <text x="920" y="596">浏览器</text>
+    <text x="88" y="626" font-size="16" fill="#6b7280">结果可下载留档</text>
+  </g>
+
+  <rect x="60" y="676" width="1080" height="48" rx="8" fill="#eef2ff"/>
+  <text x="88" y="707" font-size="18" fill="#3730a3">选型顺序：先看数据是否出浏览器，再看编码族覆盖，最后看能否固化成脚本。</text>
+</svg>
